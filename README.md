@@ -27,7 +27,7 @@
 * second
 * third
 
-+ first
+1. first
 + second
 + third
 
